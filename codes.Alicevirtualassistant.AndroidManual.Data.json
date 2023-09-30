@@ -15,35 +15,35 @@
     "fan_native": "140549657911283_140549707911278",
         
         
-    "title": "Getting started",
-    "text": "Hi there, welcome to StreamYard!\nThese docs will help you get started, but if you prefer videos, we have a Video Tutorial Series on YouTube.\nStreamYard is a live video production tool in your browser. There are no downloads and you don’t need anything other than a computer with a mic and camera to get going.\nTo get started,\n1-Launch Chrome or another supported browser",
-    "text2": "2-Sign up for StreamYard if you haven’t already\n3-Connect a destination to stream to\n4-Create a broadcast and go live\nThat’s all you need to get started!\nIf you’re looking to have the best experience possible, you should check out the devices and equipment section."
+    "title": "o que é assistente pessoal?",
+    "text": "Um assistente pessoal de voz, muitas vezes referido como assistente pessoal virtual ou simplesmente assistente de voz, é um programa de software ou aplicativo que usa processamento de linguagem natural e tecnologia de reconhecimento de fala para interagir com os usuários por meio da linguagem falada. ",
+    "text2": "Esses assistentes são projetados para realizar uma ampla gama de tarefas e fornecer informações, serviços e assistência aos usuários por meio de comandos de voz ou consultas."
   },
   {
-    "title": "Devices and equipment",
-    "text": "With StreamYard, most of the work happens on our computers, not yours. Your 5-year-old laptop, Chromebook, or desktop will all work just fine! But, if you’re serious about streaming (and we hope you are!), we recommend investing in a high quality mic and webcam. A pair of headphones is also a good idea – this will reduce the potential for echo if you are bringing on guests.\nWe are big fans of the following microphone and webcam:\n-Yeti Microphone\n-C920 Webcam",
-    "text2": "<b>Browsers</b>\nChrome, Firefox and Opera all work with StreamYard. Unfortunately, other browsers, like Safari, do not support our technology yet. We recommend Chrome for the best experience.\n<b>Internet</b>\nStreaming requires a lot of data, but your current ISP or 4G provider should work fine. We recommend that you hardwire (ethernet) to your router. WiFi will work, but not as well."
+    "title": "qual o objetivo de uma assistência pessoal",
+    "text": "Um assistente pessoal de voz é um companheiro digital que usa reconhecimento de fala e processamento de linguagem natural para ajudar os usuários em tarefas como responder perguntas, definir lembretes, controlar dispositivos inteligentes e fornecer informações, tudo por meio de comandos de voz ou consultas.",
+    "text2": ""
   },
   {
-    "title": "My mic doesn't work",
-    "text": "<b>Troubleshooting mic issues</b>\n1. Are you using the correct mic? Click the settings button to check.\n2. Are you using a headset or mic with a mute button? Make sure it’s not muted.",
-    "text2": "3. Is another program using your mic (Skype, Zoom)? Quit those then refresh the page.\n4. Did you mute your mic in your computer settings?\n5. Restart your browser. If that doesn’t work, restart your device. This fixes most issues."
+    "title": "como funciona uma assistência pessoal?",
+    "text": "Um assistente pessoal funciona ouvindo comandos de voz, convertendo-os em texto, entendendo a intenção do usuário por meio do processamento de linguagem, acessando serviços baseados em nuvem para obter informações, executando tarefas ou fornecendo respostas e fornecendo respostas faladas através do alto-falante de um dispositivo,",
+    "text2": "tudo isso enquanto prioriza o usuário privacidade e aprendizado com as interações para melhorar o desempenho ao longo do tempo."
   },
     {
-    "title": "Stream to your own website",
-    "text": "Wish you could to live stream to your own website? You can with StreamYard!\nThere are number of ways to accomplish this – in this tutorial we’re going to use YouTube.\nNote: If your YouTube account was created after August 2016, you need monetization enabled and an approved AdSense account linked to your YouTube account. Check the YouTube Features page to confirm live streaming and embedding is enabled as well.",
-    "text2": "<b>Embed a YouTube Live stream</b>\nFollow these steps to embed a YouTube Live stream on your website:\n1. Add your YouTube channel on StreamYard. You can do this from your dashboard.\n2. Create a broadcast. Then on the broadcast, click on “More”, then “View on YouTube”. view on youtube\n3. On YouTube, right click on the video section and click “Copy embed code”. youtube embed code\n4. Paste the embed code onto your website. Your viewers will see the stream on your website when you go live on StreamYard! Note that the embed code will be different for each broadcast."
+    "title": "impacto da assistência pessoal",
+    "text": "Os assistentes pessoais de voz impactaram a vida humana ao proporcionar conveniência, acessibilidade e eficiência nas tarefas, oferecendo acesso à informação, melhorando as casas inteligentes, promovendo a segurança, auxiliando na educação e no bem-estar, mas também levantando preocupações com a privacidade e transformando as interações comerciais.",
+    "text2": "Sua influência varia de acordo com as necessidades do usuário e sua familiaridade com a tecnologia"
 
   },
   {
-    "title": "Screen Sharing",
-    "text": "Screen sharing is an awesome way to present a slideshow or show a video. Both you and your guests can share a screen. You can share images, videos, PDFs, and more.\nScreen sharing works best when you have two monitors – two monitors make it easy to click from slide to slide while you’re still controlling the live stream on the other monitor.",
-    "text2": "<b>How to Screen Share</b>\nIn the broadcast studio, there’s a toolbar at the bottom of the screen. Click the “Share Screen” button. Your guests have this option as well. Screen Share Button\nThe screen sharing tips will pop up on screen. Click the blue “Share Screen” button.\nAnother popup will appear with three options:\nYour Entire Screen: Shares your entire desktop screen\nApplication Window: Lets you choose one application at a time; great for sharing a powerpoint or keynote.\nChrome Tab: Lets you share ANY file from your computer in a Chrome Tab. Open a new tab, drag the file into Chrome from your computer desktop or folder. Your cursor displays a little ‘+’ sign if the action is successful. This is the best way to share audio Screen Share Selection\nNOTE: To share audio from your screen you MUST click the “Share Audio” button.\nThen click Share, and your screen will be added to your show. Use the layout buttons under the screen to change how the screen appears alongside you and your guests. Click the tile that lights up blue to REMOVE the screen share."
+    "title": "o melhor da assistência pessoal",
+    "text": "O melhor assistente pessoal depende do ecossistema do seu dispositivo e das necessidades específicas.",
+    "text2": "Siri para usuários da Apple, Google Assistant para Android e integração de pesquisa e Amazon Alexa para controle de casa inteligente são algumas opções populares."
   },
   {
-    "title": "HD Streaming (1080p)",
-    "text": "On the professional plan, you can stream in high definition (1080p). But we don’t recommend 1080p unless you and your guests have a solid internet connection.\n",
-    "text2": "<b>Make sure you have a solid internet connection</b>\nYou’ll want an upload speed of at least 4 Mbps. You can test your speed here. Make sure you’re looking at upload speed, not download.\nWe strongly recommend plugging in directly to your router. Wifi isn’t very stable and can cause issues even when your internet is fast.\nEncourage your guests to use a computer if possible (instead of mobile), and plug in to their router."
+    "title": "assistência pessoal russa",
+    "text": "A Rússia vinha desenvolvendo sua própria assistente pessoal ativada por voz chamada (Alisa) ou (Alice) (em russo, (Алиса)). Ele foi desenvolvido pela Yandex, uma empresa multinacional russa de TI conhecida por seu mecanismo de busca, e foi projetado para competir com assistentes de voz globais como Siri e Google Assistant.",
+    "text2": "Alisa está disponível em vários serviços Yandex e dispositivos inteligentes, incluindo smartphones, alto-falantes inteligentes e sistemas automotivos. Como outros assistentes de voz, Alisa pode realizar tarefas como responder perguntas, fornecer informações, definir lembretes, controlar dispositivos domésticos inteligentes e muito mais."
   }
 ]
 
