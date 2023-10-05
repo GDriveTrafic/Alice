@@ -17,7 +17,7 @@
 
       "interAds": "Yandex",
       "bannerAds": "Yandex",
-      "nativeAds": "Yandex",
+      "nativeAds": "pangle",
       "interClick": 1,
       
       "key1": "",
@@ -55,7 +55,7 @@
       "pangle_app_id": "8025677",
       "pangle_banner_id": "980099802",
       "pangle_interstitial_id": "9800881880",
-      "pangle_native_id": "980088216",
+      "pangle_native_id": "980771532",
       
       "tapdaq_app_id": "",
       "tapdaq_client_key": ""
