@@ -4,7 +4,7 @@
       "network": "Yandex",
       
       "inReview": false,
-      "likeUs": false,
+      "likeUs": true,
       "suspended": false,
       "webMode": false,
       "webLink": "",
@@ -17,7 +17,7 @@
 
       "interAds": "Yandex",
       "bannerAds": "Yandex",
-      "nativeAds": "yandex",
+      "nativeAds": "Yandex",
       "interClick": 1,
       
       "key1": "",
