@@ -10,7 +10,7 @@
       "webLink": "",
       "newOne": "",
       "signal": "",
-      "profile_activity": true,
+      "profile_activity": false,
       "phone_activity": true,
       "age_activity": true,
       "devices_activity": true,
