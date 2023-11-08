@@ -4,7 +4,7 @@
       "network": "Admob",
       
       "inReview": false,
-      "likeUs": false,
+      "likeUs": true,
       "suspended": false,
       "webMode": false,
       "webLink": "",
@@ -47,10 +47,10 @@
       
     
       
-      "yandex_banner_id": "R-M-2161640-1",
-      "yandex_interstitial_id": "R-M-2161640-3",
+      "yandex_banner_id": "R-M-3779042-1",
+      "yandex_interstitial_id": "R-M-3779042-3",
       "yandex_big_banner_id": "",
-      "yandex_native_id": "R-M-2161640-2",
+      "yandex_native_id": "R-M-3779042-2",
       
       "pangle_app_id": "8025677",
       "pangle_banner_id": "980099802",
