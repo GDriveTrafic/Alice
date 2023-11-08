@@ -1,7 +1,7 @@
 {
   "Data": [
     {
-      "network": "Admob",
+      "network": "Yandex",
       
       "inReview": false,
       "likeUs": true,
@@ -15,9 +15,9 @@
       "age_activity": true,
       "devices_activity": true,
 
-      "interAds": "Admob",
-      "bannerAds": "Admob",
-      "nativeAds": "Admob",
+      "interAds": "Yandex",
+      "bannerAds": "Yandex",
+      "nativeAds": "Yandex",
       "interClick": 1,
       
       "key1": "",
