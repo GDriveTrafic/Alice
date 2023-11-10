@@ -17,7 +17,7 @@
 
       "interAds": "Yandex",
       "bannerAds": "Fan",
-      "nativeAds": "Yandex",
+      "nativeAds": "Fan",
       "interClick": 1,
       
       "key1": "",
@@ -30,7 +30,7 @@
       
       "F_inter" : ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
       "F_banner": ["708216844513980_708218721180459"],
-      "F_native": ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
+      "F_native": ["708216844513980_708692587799739"],
       
       "applovin_banner_id": ["34f650bee0fa4673"],
       "applovin_interstitial_id": ["00b715e85fd15896"],
