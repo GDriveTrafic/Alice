@@ -16,7 +16,7 @@
       "devices_activity": true,
 
       "interAds": "Yandex",
-      "bannerAds": "Yandex",
+      "bannerAds": "Fan",
       "nativeAds": "Yandex",
       "interClick": 1,
       
@@ -29,7 +29,7 @@
       "A_native": [""],
       
       "F_inter" : ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
-      "F_banner": ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
+      "F_banner": ["708216844513980_708218721180459"],
       "F_native": ["IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"],
       
       "applovin_banner_id": ["34f650bee0fa4673"],
