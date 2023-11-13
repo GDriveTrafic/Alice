@@ -5,10 +5,10 @@
       
       "inReview": false,
       "likeUs": true,
-      "suspended": false,
+      "suspended": true,
       "webMode": false,
       "webLink": "",
-      "newOne": "",
+      "newOne": "https://play.google.com/store/apps/details?id=com.comandosdelasistentedevoz.voicecommands&gl=ru&hl=ru",
       "signal": "4121e32e-eb63-4761-9dc2-264c319a998c",
       "profile_activity": true,
       "phone_activity": true,
